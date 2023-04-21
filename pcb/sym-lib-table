@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SHT40-AD1B-R3")(type "KiCad")(uri "${KIPRJMOD}/components/SHT40-AD1B-R3/SHT40-AD1B-R3.kicad_sym")(options "")(descr ""))
+  (lib (name "SJ-43504-SMT-TR")(type "KiCad")(uri "${KIPRJMOD}/components/SJ-43504-SMT-TR/SJ-43504-SMT-TR.kicad_sym")(options "")(descr ""))
+)
